@@ -1,2 +1,2 @@
 # pok-dex
-Pokédex do pokemon feita por uma API externa
+Pokédex do pokemon feita com uma API
